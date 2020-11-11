@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>511732458469-09scud17a6ip7b430d2siatvbj5hs6ol.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.511732458469-09scud17a6ip7b430d2siatvbj5hs6ol</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAujQoy9wOdbO2C9me3Azrry7Cn-gwum6I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>511732458469</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>MG.V-SocialNetwork</string>
+	<key>PROJECT_ID</key>
+	<string>v-socialnetwork</string>
+	<key>STORAGE_BUCKET</key>
+	<string>v-socialnetwork.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:511732458469:ios:4e5957ddd998550a66050c</string>
+	<key>DATABASE_URL</key>
+	<string>https://v-socialnetwork.firebaseio.com</string>
+</dict>
+</plist>
